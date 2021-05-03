@@ -14,4 +14,4 @@ presented.
 3) Open the Anaconda Prompt in the Directory in Which You Stored This Repo
 4) Ensure that the Python Package Manager (i.e. pip) in installed by running conda install pip 
 5) Install the Environment Dependencies by Running "pip install -r requirements.txt"
-6)To Open the Jupyter Notebook, Key jupyter notebook in the Anaconda Prompt. This will open your directory structure in your browser. Navigate to and click on the Jupyter Notebook to view.
+6) To Open the Jupyter Notebook, Key jupyter notebook in the Anaconda Prompt. This will open your directory structure in your browser. Navigate to and click on the Jupyter Notebook to view.
