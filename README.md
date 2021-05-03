@@ -15,3 +15,8 @@ presented.
 4) Ensure that the Python Package Manager (i.e. pip) in installed by running conda install pip 
 5) Install the Environment Dependencies by Running "pip install -r requirements.txt"
 6) To Open the Jupyter Notebook, Key jupyter notebook in the Anaconda Prompt. This will open your directory structure in your browser. Navigate to and click on the Jupyter Notebook to view.
+
+
+# Tableau Dashboard
+The tableau dashboard can be viewed at the following link: 
+https://public.tableau.com/profile/yifan4105#!/vizhome/Prototype2_16177471084670/Dashboard1
